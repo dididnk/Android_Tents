@@ -1,9 +1,3 @@
-/**
- * @file game.c
- * @copyright University of Bordeaux. All rights reserved, 2020.
- *
- **/
-
 #include "game.h"
 #include "game_aux.h"
 #include "game_ext.h"

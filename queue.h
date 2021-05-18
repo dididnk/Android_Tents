@@ -1,11 +1,3 @@
-/**
- * @author aurelien.esnard@u-bordeaux.fr
- * @brief Lightweight implementation of double-ended queue data structure
- * following GLib interface.
- * @details For futher details, please visit :
- * https://developer.gnome.org/glib/stable/glib-Double-ended-Queues.html
- **/
-
 #ifndef QUEUE_H
 #define QUEUE_H
 

@@ -1,11 +1,3 @@
-/**
- * @file game_ext.h
- * @brief Extended Game Functions.
- * @details See @ref index for further details.
- * @copyright University of Bordeaux. All rights reserved, 2020.
- *
- **/
-
 #ifndef __GAME_EXT_H__
 #define __GAME_EXT_H__
 #include <stdbool.h>

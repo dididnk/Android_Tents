@@ -1,11 +1,3 @@
-/**
- * @file game_tools.h
- * @brief Game Tools.
- * @details See @ref index for further details.
- * @copyright University of Bordeaux. All rights reserved, 2020.
- *
- **/
-
 #ifndef __GAME_TOOLS_H__
 #define __GAME_TOOLS_H__
 #include <stdbool.h>

@@ -1,9 +1,3 @@
-/**
- * @file game_private.c
- * @copyright University of Bordeaux. All rights reserved, 2020.
- *
- **/
-
 #include "game_private.h"
 #include "game.h"
 #include "game_aux.h"

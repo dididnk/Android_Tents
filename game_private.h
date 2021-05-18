@@ -1,10 +1,3 @@
-/**
- * @file game_private.h
- * @brief Private Game Functions.
- * @details See @ref index for further details.
- * @copyright University of Bordeaux. All rights reserved, 2020.
- **/
-
 #ifndef __GAME_PRIVATE_H__
 #define __GAME_PRIVATE_H__
 

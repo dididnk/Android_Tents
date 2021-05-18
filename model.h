@@ -1,5 +1,3 @@
-// SDL2 Model by aurelien.esnard@u-bordeaux.fr
-
 #ifndef MODEL_H
 #define MODEL_H
 
